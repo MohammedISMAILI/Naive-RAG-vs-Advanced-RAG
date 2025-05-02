@@ -5,7 +5,7 @@ from openai import OpenAI
 
 # Define API Keys
 openai_api_key = "sk-..."  # Replace with your actual OpenAI API key
-qdrant_api_key = "qdrant_eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhY2Nlc3MiOiJtIn0.fA4kpgTXaOpqbaunSkNgZj2r08grDuWSuAFKc18wmZU"
+qdrant_api_key = "qdrant_..."
 
 # Question input
 question = input("Enter your question: ")
