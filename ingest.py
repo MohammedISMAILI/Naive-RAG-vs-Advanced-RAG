@@ -8,7 +8,7 @@ import uuid
 # Connect to Qdrant Cloud
 client = QdrantClient(
     url="https://3a8f955b-bf73-4a01-a662-f601df2b60b1.europe-west3-0.gcp.cloud.qdrant.io",
-    api_key="qdrant_eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhY2Nlc3MiOiJtIn0.fA4kpgTXaOpqbaunSkNgZj2r08grDuWSuAFKc18wmZU",
+    api_key="qdrant_...",
 )
 
 # Load text files
